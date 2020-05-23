@@ -1,0 +1,9 @@
+Package: com.tomaszpoliszuk.flipswitchcolorfilterblueyellow
+Depends: firmware (>= 11.0), mobilesubstrate, com.a3tweaks.flipswitch
+Name: Flipswitch - Color Filter Blue/Yellow
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Flipswitch toggle for Color Filter Blue/Yellow
+Author: Tomasz Poliszuk
+Section: Addons (Flipswitch)
+dev: tomaszpoliszuk
